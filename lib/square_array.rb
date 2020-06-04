@@ -5,4 +5,5 @@ def square_array(array)
     Math.sqrt(array[current_element])
     current_element +=1
   end
+  return array
 end
